@@ -1,26 +1,20 @@
 ---
 
-# **1. Project Title and Description**
-
 ## **Hotel Booking Analysis Dashboard | Power BI Project**
-
-This project focuses on analyzing hotel booking data to uncover meaningful insights related to booking trends, customer behavior, revenue performance, and cancellation patterns. An interactive Power BI dashboard was created to help hotel management understand business performance and make better data-driven decisions.
-
 ---
 
-# **2. Short Description / Purpose**
+# **2. Project Overview**
 
-The purpose of this project is to transform raw hotel booking data into a clear and interactive dashboard that helps stakeholders monitor key hotel performance metrics, identify customer booking patterns, reduce cancellations, and improve revenue strategies.
-
+This Hotel Booking Analysis Dashboard is an interactive Power BI project built to explore and understand hotel booking data. It provides insights into bookings, cancellations, revenue, customer behavior, and overall hotel performance. The dashboard helps identify trends, monitor key metrics, and support smarter business decisions.
 ---
 
 # **3. Tech Stack**
 
-* **Power BI Desktop** – Used to create the interactive dashboard and visual reports
-* **Power Query** – Used for data cleaning, transformation, and preparation
-* **DAX (Data Analysis Expressions)** – Used to create calculated columns, measures, and KPIs
-* **Data Modeling** – Used to build relationships between tables for accurate analysis
-* **File Format** – `.pbix` for development and `.png` for dashboard preview
+* **Power BI Desktop** – Main data visualizaation platform used for report creation. 
+* **Power Query** – Data transformation and cleaning layer for reshaping and prepare the data.
+* **DAX (Data Analysis Expressions)** – Used for calculated measures,dynamic visuals and conditional logic.
+* **Data Modeling** – Used to build relationships between tables for accurate analysis.
+* **File Format** – `.pbix` for development and `.png` for dashboard previews.
 
 ---
 
@@ -40,7 +34,6 @@ The dataset includes details such as booking dates, guest information, hotel typ
 
 ---
 
-# **5. Feature Highlights**
 
 ## **Business Problem**
 
@@ -147,5 +140,7 @@ This dashboard helps hotel management to:
 * Support operational and strategic business decisions
 
 ---
+### **Dashboard Screenshots**
+1. Hotel Performance Overview(https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Hotel%20Performance%20Overview.png)
 
-If you want, I can now give you the **same content in a more polished GitHub README style with icons + better formatting** so it looks even more attractive on your profile.
+2.Revenue & ADR Analysis(https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Revenue%20%26%20ADR%20Analysis.png)
