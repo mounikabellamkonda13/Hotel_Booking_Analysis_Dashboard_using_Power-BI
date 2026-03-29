@@ -143,5 +143,5 @@ This dashboard helps hotel management to:
 2. [Revenue & ADR Analysis](https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Revenue%20%26%20ADR%20Analysis.png)
 3. [Booking Behavior Analysis](https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Booking%20Behavior%20Analysis.png)
 4. [Cancellation Insights](https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Cancellation%20Insights.png)
-5. [Booking & Guest Insights](https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Booking%20%26%20Guest%20Insights.png
+5. [Booking & Guest Insights](https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Booking%20%26%20Guest%20Insights.png)
 
