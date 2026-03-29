@@ -32,7 +32,6 @@ The dataset includes details such as booking dates, guest information, hotel typ
 
 ---
 
-
 ## **Business Problem**
 
 Hotels receive a large number of bookings from different channels, but they often face several business challenges such as:
