@@ -6,7 +6,7 @@
 This Hotel Booking Analysis Dashboard is an interactive Power BI project built to explore and understand hotel booking data. It provides insights into bookings, cancellations, revenue, customer behavior, and overall hotel performance. The dashboard helps identify trends, monitor key metrics, and support smarter business decisions.
 ---
 
-# **3. Tech Stack**
+# **Tech Stack**
 
 * **Power BI Desktop** – Main data visualizaation platform used for report creation. 
 * **Power Query** – Data transformation and cleaning layer for reshaping and prepare the data.
@@ -16,7 +16,7 @@ This Hotel Booking Analysis Dashboard is an interactive Power BI project built t
 
 ---
 
-# **4. Data Source**
+# **Data Source**
 
 The dataset used in this project is the **Hotel Booking Dataset**, which contains booking information for both **City Hotel** and **Resort Hotel**.
 
@@ -139,6 +139,9 @@ This dashboard helps hotel management to:
 
 ---
 ### **Dashboard Screenshots**
-1. Hotel Performance Overview(https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Hotel%20Performance%20Overview.png)
+1. [Hotel Performance Overview](https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Hotel%20Performance%20Overview.png)
+2. [Revenue & ADR Analysis](https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Revenue%20%26%20ADR%20Analysis.png)
+3. [Booking Behavior Analysis](https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Booking%20Behavior%20Analysis.png)
+4. [Cancellation Insights](https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Cancellation%20Insights.png)
+5. [Booking & Guest Insights](https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Booking%20%26%20Guest%20Insights.png
 
-2.Revenue & ADR Analysis(https://github.com/mounikabellamkonda13/Hotel_Booking_Analysis_Dashboard_using_Power-BI/blob/main/Revenue%20%26%20ADR%20Analysis.png)
