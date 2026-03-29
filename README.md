@@ -3,7 +3,8 @@
 
 # **Project Overview**
 
-This Hotel Booking Analysis Dashboard is an interactive Power BI project built to explore and understand hotel booking data. It provides insights into bookings, cancellations, revenue, customer behavior, and overall hotel performance. The dashboard helps identify trends, monitor key metrics, and support smarter business decisions.
+This Hotel Booking Analysis Dashboard is an interactive Power BI project created to better understand hotel booking data. It provides insights into bookings, cancellations, revenue, customer behavior, and overall hotel performance. The dashboard helps identify trends, monitor key metrics, and support better business decisions.
+
 ---
 
 # **Tech Stack**
