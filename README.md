@@ -3,7 +3,7 @@
 
 ## **Project Overview** :
 
-This Hotel Booking Analysis Dashboard is an interactive Power BI project created to better understand hotel booking data. It provides insights into bookings, cancellations, revenue, customer behavior, and overall hotel performance. The dashboard helps identify trends, monitor key metrics, and support better business decisions.
+This Hotel Booking Analysis Dashboard is an interactive Power BI project created to better understand hotel booking data. It provides insights into bookings, cancellations, revenue, customer behavior, and overall hotel performance. This dashboard helps to identify the trends, monitor key metrics, and support better business decisions.
 
 ---
 
@@ -48,21 +48,20 @@ These issues make it difficult for hotel management to optimize operations and i
 
 ## **Goal of the Dashboard** :
 
-The main goal of this dashboard is to analyze hotel booking data and provide clear business insights that help management:
+The main goal of this dashboard is to analyze hotel booking data and provide clear business insights :
 
-* Understand booking trends  
-* Track revenue performance  
-* Analyze cancellation behavior  
-* Explore customer patterns  
-* Support better business decision-making  
+* Understanding the booking trends  
+* Tracking revenue performance  
+* Analyzing cancellation behavior  
+* Exploring customer patterns  
+* Supporting better business decision-making  
 
 ---
 
 ## **Walkthrough of Key Visuals** :
 
 ### **1. Overview Page**
-
-This page provides a high-level summary of hotel performance using important KPIs such as:
+This page tells about a high-level summary of hotel performance using important KPIs such as:
 
 * Total Bookings  
 * Total Revenue  
@@ -73,7 +72,7 @@ It helps users quickly understand the overall business performance.
 
 ### **2. Revenue Analysis**
 
-This page focuses on hotel revenue performance and includes visuals related to:
+This page mainly focuses on hotel revenue performance and includes visuals related to:
 
 * Revenue by hotel type  
 * Revenue trends over time  
@@ -121,7 +120,7 @@ It helps understand customer segments and booking sources.
 
 ### **Key Insights**
 
-* City Hotels receive a higher number of bookings compared to Resort Hotels  
+* City Hotels receives a higher number of bookings compared to Resort Hotels  
 * A large portion of bookings comes through **Online Travel Agents (OTA)**  
 * The overall cancellation rate is relatively high and impacts revenue  
 * Most bookings are made for **short stays (1–3 nights)**  
@@ -138,6 +137,15 @@ This dashboard helps hotel management to:
 * Support operational and strategic business decisions  
 
 ---
+
+### **Recommendations**
+* Try to reduce cancellations by offering flexible pricing options, discounts for confirmed bookings, and clearer cancellation policies.
+* Encourage direct bookings through special offers and loyalty benefits to reduce reliance on third-party booking platforms.
+* Use dynamic pricing based on seasonal demand to improve revenue and occupancy.
+* Focus on retaining loyal customers with personalized offers and better guest experiences.
+* Promote longer stays by offering special packages or discounts for extended bookings.
+* Target marketing efforts toward countries and customer segments that contribute the most bookings.
+* Use booking and cancellation trends to plan better and reduce revenue loss.
 
 ## **Dashboard Screenshots**
 
